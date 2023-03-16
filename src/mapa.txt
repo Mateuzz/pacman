@@ -1,0 +1,2 @@
+textura : assets/background.png
+colisao: assets/colisao.csv

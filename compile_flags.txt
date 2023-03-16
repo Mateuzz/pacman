@@ -1,0 +1,7 @@
+-O
+-W
+-Wall
+-Wextra
+-pedantic
+-xc
+-IC:\msys64\mingw64\include\SDL2
